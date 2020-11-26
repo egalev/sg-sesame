@@ -1,7 +1,7 @@
 # SG Sesame
 <p align="center">
 
-<a href="https://pypi.python.org/pypi/sg_sesame">
+<a href="https://pypi.python.org/pypi/sg-sesame">
 <img src="https://img.shields.io/pypi/v/sg_sesame.svg" /></a>
 <a href="https://travis-ci.org/stopmachine/sg_sesame"><img src="https://travis-ci.org/stopmachine/sg_sesame.svg?branch=master" /></a>
 </p>
