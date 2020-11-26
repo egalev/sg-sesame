@@ -68,4 +68,4 @@ def build(session):
 def publish(session):
     build(session)
     print("REMINDER: Has the changelog been updated?")
-    session.run("python", "-m", "twine", "upload", "--repository", "testpypi", "dist/*")
+    session.run("python", "-m", "twine", "upload", "dist/*")
