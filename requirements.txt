@@ -1,0 +1,5 @@
+requests-aws4auth~=1.0.1
+click~=7.1.2
+requests~=2.25.0
+setuptools~=50.3.2
+six==1.15.0
